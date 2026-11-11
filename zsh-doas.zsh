@@ -14,9 +14,13 @@
 # * Marc Cornellà <github.com/mcornella>
 # * Carlo Sala <carlosalag@protonmail.com>
 # * Asep5K <Asep5K@protonmail.me>
+#
+# ------------------------------------------------------------------------------
 # License
 # -------
+#
 # MIT License (Inherited from oh-my-zsh)
+#
 # ------------------------------------------------------------------------------
 
 function __doas-replace-buffer() {
